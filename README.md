@@ -23,7 +23,7 @@
         <h2>Contributing</h2>
         <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.</p>
         <h2>Credits</h2>
-        <p>This project was created by Your Name. It uses the <a href="https://fonts.google.com/specimen/Poppins">Poppins font</a> from Google Fonts.</p>
+        <p>This project was created by Nada tayebi. It uses the <a href="https://fonts.google.com/specimen/Poppins">Poppins font</a> from Google Fonts.</p>
         <h2>License</h2>
         <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
     </div>
